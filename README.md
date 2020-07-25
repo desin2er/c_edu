@@ -1,20 +1,20 @@
 # C 언어 학습
 
 ### 데이터형
-bool
-char
-shor
-int
-long
-float
-double
-string
+* bool
+* char
+* shor
+* int
+* long
+* float
+* double
+* string
 
 ### 입,출력
-scanf()
-printf()
-cin
-cout
+* scanf()
+* printf()
+* cin
+* cout
 
 ### 연산자, 우선순위
 #### 대입연산자

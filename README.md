@@ -48,3 +48,5 @@ whlie
 ### 10. 구조체
 ### 11. 포인트
 ### 12. 동적할당
+malloc, calloc, realloc, free
+new , delete
